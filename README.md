@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 # 📁 Featured Projects
-**[AI Job Market & Salary Trends 2025](https://github.com/yourusername/ai-job-market-analysis)**  
+**[AI Job Market & Salary Trends 2025](https://github.com/freddypadilla/AI-Job-Market-Analysis.git)**  
 Analyzed job postings to uncover trends in salary, in-demand skills, remote work, and more.  
 Tools: Python (Pandas, Matplotlib), PostgreSQL, Excel, Tableau  
 Highlights:
