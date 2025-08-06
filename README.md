@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 # 📁 Featured Projects
-**[Oracle DCF](https://github.com/freddypadilla/oracledcf)**                                                                                                                         
+**[Oracle DCF Valuation](https://github.com/freddypadilla/oracledcf)**                                                                                                               
 Valued Oracle using a 5-year DCF model to evaluate long-term cash flow potential during its cloud expansion phase.                                                                   
 Tools: Excel, Python (Pandas, yfinance)                                                                                                                                              
 Highlights:
